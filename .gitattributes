@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+C:/Users/santoshk715/Documents/GitHub/Map1/map_project/LAD_DEC_2021_UK_BFC.json filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
